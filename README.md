@@ -11,5 +11,7 @@
 기본적인 쿼리 외에 쿼리문을 더 효율적으로 사용할 수 있는   
 `Procedure`, `Cursor`, `Trigger`를 활용하였습니다. 
 
-### 📚 프로젝트 Notion
-https://www.notion.so/1-f0e7211f97714820b23e00dd292be8af
+### 📚 프로젝트 문서
+https://www.notion.so/1-f0e7211f97714820b23e00dd292be8af   
+### 프로젝트 상세 설명 PPT
+[1조_REMEMBERSHIP.pptx](https://github.com/minj-L/Remebership/files/9976841/1._REMEMBERSHIP.pptx)
