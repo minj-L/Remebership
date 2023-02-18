@@ -12,6 +12,6 @@
 `Procedure`, `Cursor`, `Trigger`를 활용하였습니다. 
 
 ### 📚 프로젝트 문서
-https://www.notion.so/1-f0e7211f97714820b23e00dd292be8af   
+https://overjoyed-thorium-06d.notion.site/1-f0e7211f97714820b23e00dd292be8af
 ### 프로젝트 상세 설명 PPT
 [1조_REMEMBERSHIP.pptx](https://github.com/minj-L/Remebership/files/9976841/1._REMEMBERSHIP.pptx)
