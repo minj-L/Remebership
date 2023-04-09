@@ -15,3 +15,5 @@
 https://overjoyed-thorium-06d.notion.site/1-f0e7211f97714820b23e00dd292be8af
 ### 프로젝트 상세 설명 PPT
 [1조_REMEMBERSHIP.pptx](https://github.com/minj-L/Remebership/files/9976841/1._REMEMBERSHIP.pptx)
+### 프로젝트 설계 및 기술서
+[DB 프로젝트 (리멤버십).pdf](https://github.com/minj-L/Remebership/files/11185117/DB.pdf)
